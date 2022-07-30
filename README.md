@@ -22,8 +22,6 @@ Sou estudante de Desenvolvimento Web Full Stack da Trybe
   <img align='center' src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'/>
   <img align='center' src='https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white'/>
   <img align='center' src='https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white'/>
-  <img align='center' src='https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white'/>
-  <img align='center' src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'/>
 </div>
 <br>
 <p align='center'>Conhecimentos de BackEnd</p>
