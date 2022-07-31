@@ -1,17 +1,23 @@
 ### Olá, sou Paulo Bruno Machado Dias.
-<p>Sou estudante de Desenvolvimento Web Full Stack da Trybe.</p>
-<p>Completei o modulo de fundamentos e FrontEnd.</p>
-<p>No momento, iniciei o modulo de BackEnd,e estou aprendendo sobre node.</p>
+- Formado em **Engenharia civil** e em transição de carreira para desenvolvedor web.
+- Sou estudante de **Desenvolvimento Web Full Stack da Trybe**.
+- Completei o modulo de **Fundamentos** e **FrontEnd**.
+- No momento, iniciei o modulo de BackEnd e estou aprendendo sobre **Node**.
+
 <div>
-  <a href="https://github.com/DevPBDias/github-readme-stats">
-    <img align='center' src='https://github-readme-stats.vercel.app/api?username=DevPBDias&count_private=true&show_icons=true&theme=great-gatsby'/>
-  </a>
-  <a href="https://github.com/DevPBDias/github-readme-stats">
-    <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=DevPBDias&theme=great-gatsby&'/>
-  </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devpbdias&label=Profile%20views&color=0e75b6&style=flat" alt="devpbdias" /> </p>
+</div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devpbdias&theme=juicyfresh" alt="devpbdias" /></a> </p>
+<div>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devpbdias&theme=great-gatsby" alt="devpbdias" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devpbdias&show_icons=true&locale=en&theme=great-gatsby" alt="devpbdias" />
 </div>
 <br>
-<p align='center' font-weitgth=700>Conhecimentos de Fundamentos</p>
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devpbdias&show_icons=true&locale=en&theme=great-gatsby&layout=compact" alt="devpbdias" />
+</div>
+<br>
+<p align='center'>Conhecimentos de Fundamentos</p>
 <div align='center'>
   <img align='center' src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/>
   <img align='center' src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/>
@@ -29,7 +35,7 @@
 </div>
 <br>
 <p align='center'>Conhecimentos de BackEnd</p>
-<br>
 <div align='center'>
  <img align='center' src='https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white'/>
 </div>
+
