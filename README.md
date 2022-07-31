@@ -1,7 +1,7 @@
 ### Olá, sou Paulo Bruno Machado Dias.
 <p>Sou estudante de Desenvolvimento Web Full Stack da Trybe.</p>
-<p>Completei o modulo de fundamentos e FrontEnD.</p>
-<p>No momento, iniciei o modulo de Backend,e estou aprendendo sobre node.</p>
+<p>Completei o modulo de fundamentos e FrontEnd.</p>
+<p>No momento, iniciei o modulo de BackEnd,e estou aprendendo sobre node.</p>
 
 <div>
   <a href="https://github.com/DevPBDias/github-readme-stats">
