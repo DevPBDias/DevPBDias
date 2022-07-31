@@ -2,13 +2,12 @@
 <p>Sou estudante de Desenvolvimento Web Full Stack da Trybe.</p>
 <p>Completei o modulo de fundamentos e FrontEnd.</p>
 <p>No momento, iniciei o modulo de BackEnd,e estou aprendendo sobre node.</p>
-
 <div>
   <a href="https://github.com/DevPBDias/github-readme-stats">
     <img align='center' src='https://github-readme-stats.vercel.app/api?username=DevPBDias&count_private=true&show_icons=true&theme=great-gatsby'/>
   </a>
   <a href="https://github.com/DevPBDias/github-readme-stats">
-    <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=DevPBDias&theme=great-gatsby'/>
+    <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=DevPBDias&theme=great-gatsby&'/>
   </a>
 </div>
 <br>
