@@ -3,8 +3,13 @@
 - Sou estudante de **Desenvolvimento Web Full Stack da Trybe**.
 - Completei o modulo de **Fundamentos** e **FrontEnd**.
 - No momento, iniciei o modulo de BackEnd e estou aprendendo sobre **Node**.
+<div>
 <p align='left'>Contatos:</p>
-<img
+<a href='https://www.linkedin.com/in/devpaulobrunomdias/'>
+<img align='center' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
+</a>
+</div>
+<br>
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devpbdias&label=Profile%20views&color=0e75b6&style=flat" alt="devpbdias" /> </p>
 </div>
@@ -38,12 +43,14 @@
 <p align='center'>Conhecimentos de BackEnd</p>
 <div align='center'>
  <img align='center' src='https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white'/>
-  
-  https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
-  https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
-  https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white
-  https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white
-  https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
-  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+ <img align='center' src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'/>
+</div>
+<br>
+<p align='center'>Outros conhecimentos</p>
+<div align='center'>
+  <img align='center' src='https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white'/>
+  <img align='center' src='https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white'/>
+  <img align='center' src='https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white'/>
+  <img align='center' src='https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white'/>
 </div>
 
