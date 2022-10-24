@@ -13,7 +13,6 @@
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devpbdias&label=Profile%20views&color=0e75b6&style=flat" alt="devpbdias" /> </p>
 </div>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devpbdias&theme=juicyfresh" alt="devpbdias" /></a> </p>
 <div>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devpbdias&theme=great-gatsby" alt="devpbdias" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=devpbdias&show_icons=true&locale=en&theme=great-gatsby" alt="devpbdias" />
