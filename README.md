@@ -11,12 +11,10 @@
 </div>
 <br>
 <div>
-<img align="left" src="https://komarev.com/ghpvc/?username=devpbdias&label=Profile%20views&color=0e75b6&style=flat" alt="devpbdias" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=devpbdias&show_icons=true&locale=en&theme=great-gatsby" alt="devpbdias" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=devpbdias&show_icons=true&locale=en&theme=great-gatsby" alt="devpbdias" />
 </div>
-<br>
 <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devpbdias&show_icons=true&locale=en&theme=great-gatsby&layout=compact" alt="devpbdias" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=devpbdias&show_icons=true&locale=en&theme=great-gatsby&layout=compact" alt="devpbdias" />
 </div>
 <br>
 <p align='center'>Conhecimentos/Tecnologias:</p>
