@@ -12,13 +12,17 @@
 <br>
 <div>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=devpbdias&show_icons=true&locale=en&theme=great-gatsby" alt="devpbdias" />
-</div>
-<div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devpbdias&show_icons=true&locale=en&theme=great-gatsby&layout=compact" alt="devpbdias" />
-</div>
 <br>
 <br>
-<div align='center'>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <p align='left'>Conhecimentos/Tecnologias:</p>
 <div align='left'>
   <img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/>
