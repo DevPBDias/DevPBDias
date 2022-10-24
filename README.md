@@ -11,9 +11,7 @@
 </div>
 <br>
 <div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devpbdias&label=Profile%20views&color=0e75b6&style=flat" alt="devpbdias" /> </p>
-</div>
-<div>
+<img align="left" src="https://komarev.com/ghpvc/?username=devpbdias&label=Profile%20views&color=0e75b6&style=flat" alt="devpbdias" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=devpbdias&show_icons=true&locale=en&theme=great-gatsby" alt="devpbdias" />
 </div>
 <br>
@@ -35,5 +33,7 @@
  <img align='center' src='https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white'/>
  <img align='center' src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'/>
   <img align='center' src='https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white'/>
+ <img align='center' src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white'/>
+ <img align='center' src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'/>
 </div>
 
