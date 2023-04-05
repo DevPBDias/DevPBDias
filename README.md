@@ -6,6 +6,7 @@
 <div>
 <p align='left'>Contatos:</p>
 <a href='https://www.linkedin.com/in/devpaulobrunomdias/'>
+<p>devpbdias@gmail.com</p>
 <img align='center' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
 </a>
 </div>
