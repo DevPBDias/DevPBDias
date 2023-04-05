@@ -2,11 +2,12 @@
 - Formado em **Engenharia civil** e em transição de carreira para **Desenvolvedor Front-end**.
 - Formado em **Desenvolvimento Web Full Stack pela Trybe**.
 - No momento, estou me fortalecendo meus conhecimentos com projetos pessoais e freelas 
-- Meu próximo aprendizado será Next.js
+- Meus próximos aprendizados serão Next.js e Angular
+
+### Contatos:
 <div>
-<p align='left'>Contatos:</p>
+<p align='left'>devpbdias@gmail.com</p>
 <a href='https://www.linkedin.com/in/devpaulobrunomdias/'>
-<p>devpbdias@gmail.com</p>
 <img align='center' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
 </a>
 </div>
@@ -14,8 +15,9 @@
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=devpbdias&show_icons=true&locale=en&theme=great-gatsby" alt="devpbdias" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devpbdias&show_icons=true&locale=en&theme=great-gatsby&layout=compact" alt="devpbdias" />
-<br>
-<p>Conhecimentos/Tecnologias:</p>
+</div>
+
+### Conhecimentos/Tecnologias:
 <div>
   <img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/>
   <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/>
@@ -35,4 +37,4 @@
   <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white'/>
   <img src='https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white'/>
 </div>
-</div>
+
