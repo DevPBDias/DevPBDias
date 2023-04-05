@@ -1,8 +1,8 @@
 ### Olá, sou Paulo Bruno Machado Dias.
-- Formado em **Engenharia civil** e em transição de carreira para desenvolvedor web.
-- Sou estudante de **Desenvolvimento Web Full Stack da Trybe**.
-- Finalizei os módulos de **Fundamentos** e **FrontEnd**.
-- No momento, iniciei o módulo de BackEnd e estou aprendendo sobre **MongoDB**.
+- Formado em **Engenharia civil** e em transição de carreira para **Desenvolvedor Front-end**.
+- Formado em **Desenvolvimento Web Full Stack pela Trybe**.
+- No momento, estou me fortalecendo meus conhecimentos com projetos pessoais e freelas 
+- Meu próximo aprendizado será Next.js
 <div>
 <p align='left'>Contatos:</p>
 <a href='https://www.linkedin.com/in/devpaulobrunomdias/'>
