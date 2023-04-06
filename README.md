@@ -1,7 +1,7 @@
 ### Olá, sou Paulo Bruno Machado Dias.
 - Formado em **Engenharia civil** e em transição de carreira para **Desenvolvedor Front-end**.
 - Formado em **Desenvolvimento Web Full Stack pela Trybe**.
-- No momento, estou me fortalecendo meus conhecimentos com projetos pessoais e freelas 
+- No momento, estou fortalecendo meus conhecimentos com projetos pessoais e freelas 
 - Meus próximos aprendizados serão Next.js e Angular
 
 ### Contatos:
