@@ -7,7 +7,7 @@
 
 - No momento, estou fortalecendo meus conhecimentos com projetos pessoais e freelas.
 
-- Meus próximos aprendizados serão **Next.js e Angular**.
+- Meu próximo aprendizado serão **Angular.js**.
 
 ## Sobre mim:
 
