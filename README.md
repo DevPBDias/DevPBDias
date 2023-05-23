@@ -65,7 +65,7 @@
   <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'/>
   <img src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge'/>
   <img src='https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white'/>
-  <img src='hhttps://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown'/>
+  <img src='https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown'/>
   <img src='https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red'/>
   <img src='https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon'/>
   <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/>
