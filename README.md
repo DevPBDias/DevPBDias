@@ -1,17 +1,25 @@
 ### Olá, sou Paulo Bruno Machado Dias.
 - Formado em **Engenharia civil** e em transição de carreira para **Desenvolvedor Jr Front End (front-end)**.
-- Formado em **Desenvolvimento Web Full Stack pela Trybe**.
-- No momento, estou fortalecendo meus conhecimentos com projetos pessoais e freelas 
-- Meus próximos aprendizados serão Next.js e Angular
+
+- Formado em **Desenvolvimento Web Full Stack pela Trybe** com 1.500 horas de aula com foco em: Introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+
+- Realizei **diversos projetos**, individuais e em grupo, com as tecnologias citadas abaixo, durante o curso profissionalizante da Trybe.
+
+- No momento, estou fortalecendo meus conhecimentos com projetos pessoais e freelas.
+
+- Meus próximos aprendizados serão **Next.js e Angular**.
 
 ### Contatos:
 <div>
-<p align='left'>devpbdias@gmail.com</p>
+<a href="devpbdias@gmail.com">
+<img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <a href='https://www.linkedin.com/in/devpaulobrunomdias/'>
-<img align='center' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
+<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
 </a>
 </div>
-<br>
+
+### Stats:
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=devpbdias&show_icons=true&locale=en&theme=great-gatsby" alt="devpbdias" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devpbdias&show_icons=true&locale=en&theme=great-gatsby&layout=compact" alt="devpbdias" />
@@ -19,6 +27,7 @@
 
 ### Conhecimentos/Tecnologias:
 <div>
+  <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'/>
   <img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/>
   <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/>
   <img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'/>
@@ -36,5 +45,9 @@
   <img src='https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white'/>
   <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white'/>
   <img src='https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'/>
+  <img src='https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white'/>
 </div>
 
