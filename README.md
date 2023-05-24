@@ -1,4 +1,7 @@
-## Olá, sou Paulo Bruno Machado Dias, sou desenvolvedor Front End.
+## Olá, sou Paulo Bruno Machado Dias.
+
+- Sou desenvolvedor **Front End**.
+
 - Formado em **Engenharia civil** e em transição de carreira para **Desenvolvedor Jr Front End (front-end)**.
 
 - Formado em **Desenvolvimento Web Full Stack pela Trybe** com 1.500 horas de aula com foco em: Introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
