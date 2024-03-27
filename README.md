@@ -1,4 +1,4 @@
-## Olá, sou Paulo Bruno Machado Dias.
+## Hello, I am Paulo Bruno Machado Dias..
 
 **Sou desenvolvedor web e ux designer**.
 
@@ -9,6 +9,18 @@
 - Realizei **diversos projetos**, individuais e em grupo, com as tecnologias citadas abaixo, durante o curso profissionalizante da Trybe.
 
 - No momento, estou fortalecendo meus conhecimentos com projetos pessoais e freelas.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- I am a web developer and UX designer.
+
+- I graduated from the Full Stack Web Development program at Trybe with 1,500 hours of classes focusing on: Introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies, and behavioral skills.
+
+- I completed a Google-certified course to learn about UX Design, where I learned: Fundamentals of user experience (UX) design, initiating the UX design process: empathizing, defining and ideating, creating low-fidelity wireframes and prototypes, conducting UX research and testing initial concepts, creating high-fidelity designs and prototypes in Figma, designing a user experience for social good, and preparing for the market.
+
+- I have completed various individual and group projects using the technologies mentioned below during Trybe's professional training course.
+
+- Currently, I am strengthening my knowledge with personal projects and freelancing."
   
 ## Sobre mim:
 
