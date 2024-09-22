@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=65DEF1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=32&pause=1200&color=65DEF1&background=FF2BB300&center=true&vCenter=true&width=1000&height=40&lines=Welcome+to+my+Github+!!!;Hello+World+!!!+I+am+Paulo+Bruno.;Web+Developer+graduated+at+Trybe.;UI%2FUX+Designer+by+Google+UX+Designer+Course.;Freelancer+and+looking+for+new+oportunities.;Feel+to+explore+my+pinned+repos+and+other+stuff.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rowdies&size=32&pause=1200&color=65DEF1&background=FF2BB300&center=true&vCenter=true&width=1000&height=40&lines=Welcome+to+my+Github+!!!;Hello+World+!!!+I+am+Paulo+Bruno.;Web+Developer+graduated+at+Trybe.;UI%2FUX+Designer+by+Google+UX+Designer+Course.;Freelancer+and+looking+for+new+oportunities.;Feel+to+explore+my+pinned+repos+and+other+stuff.)](https://git.io/typing-svg)
 
 ##
 
