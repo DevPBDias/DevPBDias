@@ -28,7 +28,7 @@
 	<img width="48" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/>
 </div>
   
-## About me:
+## 😬 About me:
 - 🏀 Play basketball;
 - 🎮 Play videogames;
 - 📺 Watch animes, movies and series;
