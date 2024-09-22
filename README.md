@@ -29,11 +29,10 @@
 </div>
   
 ## About me:
-- 🏀 Adoro jogar basquete;
-- 🎮 Curto jogar jogos onlines e videogames;
-- 📺 Curto assistir animes, filmes e séries;
-- 🎶 Curto ouvir rock e mpb;
-- 🖥️ Codar um simples e limpo código.
+- 🏀 Play basketball;
+- 🎮 Play videogames;
+- 📺 Watch animes, movies and series;
+- 🎶 Listen rock e mpb;
 
 ## 📠 Contact:
 <div>
