@@ -32,7 +32,7 @@
 - 🏀 Play basketball;
 - 🎮 Play videogames;
 - 📺 Watch animes, movies and series;
-- 🎶 Listen rock e mpb;
+- 🎶 Listen rock and pop;
 
 ## 📠 Contact:
 <div>
