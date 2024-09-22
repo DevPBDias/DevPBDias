@@ -27,12 +27,14 @@
 	<img width="48" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
 	<img width="48" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/>
 </div>
+</br>
   
 ## 😬 About me:
 - 🏀 Play basketball;
 - 🎮 Play videogames;
 - 📺 Watch animes, movies and series;
 - 🎶 Listen rock and pop;
+</br>
 
 ## 📠 Contact:
 <div>
@@ -45,7 +47,7 @@
 </div>
 
 
-##
+</br>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=65DEF1&height=120&section=footer"/>
