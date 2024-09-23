@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=65DEF1&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ECA009&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rowdies&size=32&pause=1200&color=65DEF1&background=FF2BB300&center=true&vCenter=true&width=1000&height=40&lines=Welcome+to+my+Github+!!!;Hello+World+!!!+I+am+Paulo+Bruno.;Web+Developer+graduated+at+Trybe.;UI%2FUX+Designer+by+Google+UX+Designer+Course.;Freelancer+and+looking+for+new+oportunities.;Feel+free+to+explore+my+pinned+repos+and+other+stuff.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rowdies&size=32&pause=1200&color=ECA009&background=FF2BB300&center=true&vCenter=true&width=1000&height=40&lines=Welcome+to+my+Github+!!!;Hello+World+!!!+I+am+Paulo+Bruno.;Web+Developer+graduated+at+Trybe.;UI%2FUX+Designer+by+Google+UX+Designer+Course.;Freelancer+and+looking+for+new+oportunities.;Feel+free+to+explore+my+pinned+repos+and+other+stuff.)](https://git.io/typing-svg)
 
 ##
 
 <div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devpbdias&&show_icons=true&count_private=true&hide_border=true&title_color=65DEF1&icon_color=65DEF1&text_color=65DEF1&bg_color=0d1117" alt="devpbdias" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=devpbdias&layout=compact&hide_border=true&title_color=65DEF1&text_color=65DEF1&bg_color=0d1117" alt="devpbdias" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devpbdias&&show_icons=true&count_private=true&hide_border=true&title_color=ECA009&icon_color=ECA009&text_color=ECA009&bg_color=0d1117" alt="devpbdias" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=devpbdias&layout=compact&hide_border=true&title_color=ECA009&text_color=ECA009&bg_color=0d1117" alt="devpbdias" />
 </div>
 
 ## ✨Skills:
@@ -50,4 +50,4 @@
 </br>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=65DEF1&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ECA009&height=120&section=footer"/>
