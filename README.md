@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ECA009&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rowdies&size=32&pause=1200&color=ECA009&background=FF2BB300&center=true&vCenter=true&width=1000&height=40&lines=Welcome+to+my+Github+!!!;Hello+World+!!!+I+am+Paulo+Bruno.;Web+Developer+graduated+at+Trybe.;UI%2FUX+Designer+by+Google+UX+Designer+Course.;Freelancer+and+looking+for+new+oportunities.;Feel+free+to+explore+my+pinned+repos+and+other+stuff.)](https://git.io/typing-svg)
+  
+## 😬 About me:
+Sou formado na TRYBE em desenvolvimento web Full Stack, foi uma oportunidade enriquecedora de muito aprendizado e com projetos trabalho em equipe. Meu foco é atuar como dev Front-end, na criação de interfaces dinâmicas e responsivas, utilizando tecnologias modernas como JavaScript, TypeScript e frameworks como React e Next.js. Também possuo conhecimento em desenvolvimento backend com Node.j, e com bancos de dados relacionais e não relacionais, como MySQL e MongoDB. Além disso, adquiri conhecimentos de UX/UI design através de cursos da Google e Udemy.
 
-##
+Atualmente, sou desenvolvedor web freelancer, já desenvolvi os sites da Olé Mídia e Max Training Performance com interfaces dinâmicas e responsivas. Paralelamente, estou estudando React Native e desenvolvendo projetos pessoais, o que tem sido uma maneira de manter atualizado e de aprimorar as minhas habilidedes técnicas.
 
-<div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devpbdias&&show_icons=true&count_private=true&hide_border=true&title_color=ECA009&icon_color=ECA009&text_color=ECA009&bg_color=0d1117" alt="devpbdias" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=devpbdias&layout=compact&hide_border=true&title_color=ECA009&text_color=ECA009&bg_color=0d1117" alt="devpbdias" />
-</div>
+Meu objetivo é contribuir como Desenvolvedor, criando soluções web inovadoras e eficientes que encantem os usuários e tornem suas vidas mais fáceis.
 
 ## ✨Skills:
 <div >
@@ -27,13 +27,13 @@
 	<img width="48" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
 	<img width="48" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/>
 </div>
-</br>
-  
-## 😬 About me:
-- 🏀 Play basketball;
-- 🎮 Play videogames;
-- 📺 Watch animes, movies and series;
-- 🎶 Listen rock and pop;
+
+##
+
+<div align="center">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devpbdias&&show_icons=true&count_private=true&hide_border=true&title_color=ECA009&icon_color=ECA009&text_color=ECA009&bg_color=0d1117" alt="devpbdias" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=devpbdias&layout=compact&hide_border=true&title_color=ECA009&text_color=ECA009&bg_color=0d1117" alt="devpbdias" />
+</div>
 </br>
 
 ## 📠 Contact:
@@ -45,9 +45,8 @@
   <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
 </a>
 </div>
-
-
 </br>
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ECA009&height=120&section=footer"/>
