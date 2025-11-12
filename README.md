@@ -3,13 +3,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rowdies&size=32&pause=1200&color=ECA009&background=FF2BB300&center=true&vCenter=true&width=1000&height=40&lines=Welcome+to+my+Github+!!!;Hello+World+!!!+I+am+Paulo+Bruno.;Web+Developer+graduated+at+Trybe.;UI%2FUX+Designer+by+Google+UX+Designer+Course.;Freelancer+and+looking+for+new+oportunities.;Feel+free+to+explore+my+pinned+repos+and+other+stuff.)](https://git.io/typing-svg)
   
 ## 😬 About me:
-Sou formado em Engenharia Civil, mas há alguns anos decidi seguir minha verdadeira vocação e migrar para a área de tecnologia. Concluí o curso de Desenvolvimento Web Full Stack pela Trybe, onde aprendi desde front-end até back-end com foco em boas práticas, metodologias ágeis e trabalho em equipe. 
+Sou Desenvolvedor Frontend focado em React, Nextjs e venho fazendo uma transição de carreira após mais de cinco anos na engenharia civil. Encontrei no desenvolvimento web uma forma de unir criatividade, lógica e impacto real na vida das pessoas. Desde então, venho me dedicando a criar interfaces modernas e funcionais que entregam valor tanto visual quanto técnico. 
 
-Desde então, venho me dedicando a criar soluções digitais que unam design e funcionalidade. Desenvolvi sites e aplicações personalizadas para pequenas empresas, cuidando de todo o processo, desde o layout no Figma até a implementação com código. Também atuo em projetos pessoais que me permitem experimentar novas tecnologias e aprimorar minhas habilidades técnicas e criativas.
+Sou formado em Desenvolvimento Web Full Stack pela Trybe, onde adquiri base sólida em tecnologias front-end e back-end, metodologias ágeis e boas práticas de programação. Concluí também minha formação em Cloud Computing pela Escola da Nuvem, conquistando o certificado AWS Cloud Practitioner. 
 
-Além da programação, gosto de manter uma rotina equilibrada. Pratico basquete e academia, o que me ajuda a manter foco e disciplina, e costumo estudar diariamente para evoluir como desenvolvedor. Busco me manter atualizado com cursos de aperfeiçoamento como Figma, Nextjs, UX/UI Design e computação na nuvem (AWS).
+Sigo expandindo minhas habilidades com tecnologias de frontend, explorando continuamente novas ferramentas e conceitos. Tenho interesse em me aprofundar em arquitetura de front-end e automação, buscando evoluir como desenvolvedor completo e preparado para desafios de maior escala.
 
-Sou curioso, gosto de aprender coisas novas e acredito que a tecnologia tem o poder de transformar o dia a dia das pessoas. Meu objetivo é que meu código impacte o máximo de pessoais possíveis.
+Entre minhas experiências, realizei projetos freelance para Olé Mídia e Max Training, conduzindo todo o processo, do design no Figma à implantação na Vercel. Além disso, desenvolvi o projeto FTB Platform como um trabalho voluntário de aperfeiçoamento, aplicando componentização, gerenciamento de estado e integração com APIs. Nessas entregas, mantive foco em UI/UX, responsividade e código limpo.
+
+Atualmente, busco oportunidades como Desenvolvedor Frontend Júnior, em equipes dinâmicas e colaborativas, onde eu possa contribuir com resultados impactantes e continuar crescendo como profissional.
 
 <br />
 
