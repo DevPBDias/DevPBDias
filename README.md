@@ -39,9 +39,9 @@ Atualmente, busco oportunidades como Desenvolvedor Web, em equipes dinâmicas e 
 ## My stats
 
 <div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devpbdias&&show_icons=true&count_private=true&hide_border=true&title_color=ECA009&icon_color=ECA009&text_color=ECA009&bg_color=0d1117" alt="devpbdias" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=devpbdias&layout=compact&hide_border=true&title_color=ECA009&text_color=ECA009&bg_color=0d1117" alt="devpbdias" />
-</div>
+	<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devpbdias&&show_icons=true&count_private=true&hide_border=true&title_color=ECA009&icon_color=ECA009&text_color=ECA009&bg_color=0d1117" alt="devpbdias" />
+	<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=devpbdias&layout=compact&hide_border=true&title_color=ECA009&text_color=ECA009&bg_color=0d1117" alt="devpbdias" />
+	</div>
 </br>
 
 ## 📠 Contact:
